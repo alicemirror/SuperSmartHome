@@ -1,0 +1,40 @@
+{
+  "nodes": 7,
+  "nodes_info": [
+    {
+      "name": "Doorbell",
+      "URL": "https://192.168.1.151",
+      "active": 0
+    },
+    {
+      "name": "Door Opener",
+      "URL": "https://192.168.1.150",
+      "active": 1
+    },
+    {
+      "name": "Environment",
+      "URL": "https://192.168.1.152",
+      "active": 0
+    },
+    {
+      "name": "Lighting",
+      "URL": "https://192.168.1.153",
+      "active": 0
+    },
+    {
+      "name": "Apppliances",
+      "URL": "https://192.168.1.154",
+      "active": 0
+    },
+    {
+      "name": "Alarms",
+      "URL": "https://192.168.1.154",
+      "active": 0
+    },
+    {
+      "name": "Cloud",
+      "URL": "https://192.168.1.155",
+      "active": 0
+    }
+  ]
+}
