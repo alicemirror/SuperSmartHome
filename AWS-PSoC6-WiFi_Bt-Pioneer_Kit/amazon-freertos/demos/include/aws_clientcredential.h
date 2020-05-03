@@ -31,7 +31,7 @@
  *
  * @todo Set this to the fully-qualified DNS name of your MQTT broker.
  */
-#define clientcredentialMQTT_BROKER_ENDPOINT         "<Your Briker ID>-ats.iot.us-east-1.amazonaws.com"
+#define clientcredentialMQTT_BROKER_ENDPOINT         "a2m5vsd3ukfar4-ats.iot.us-east-1.amazonaws.com"
 
 /*
  * @brief Host name.
@@ -61,7 +61,7 @@
  * @brief Password needed to join Wi-Fi network.
  * @todo If you are using WPA, set this to your network password.
  */
-#define clientcredentialWIFI_PASSWORD                "*******"
+#define clientcredentialWIFI_PASSWORD                "4nt0n3lla"
 
 /*
  * @brief Wi-Fi network security type.

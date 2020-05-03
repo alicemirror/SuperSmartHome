@@ -54,7 +54,7 @@
  * Provide default values for undefined configuration settings.
  */
 #ifndef IOT_DEMO_MQTT_TOPIC_PREFIX
-    #define IOT_DEMO_MQTT_TOPIC_PREFIX           "iotsmarthome"
+    #define IOT_DEMO_MQTT_TOPIC_PREFIX           "$aws/things/PSoC6ControlCenter"
 #endif
 #ifndef IOT_DEMO_MQTT_PUBLISH_BURST_SIZE
     #define IOT_DEMO_MQTT_PUBLISH_BURST_SIZE     ( 10 )
@@ -79,7 +79,7 @@
  * This prefix is also used to generate topic names and topic filters used in this
  * demo.
  */
-#define CLIENT_IDENTIFIER_PREFIX                 "iotsmarthome"
+#define CLIENT_IDENTIFIER_PREFIX                 "iotpsoc6smarthome"
 
 /**
  * @brief The longest client identifier that an MQTT server must accept (as defined
